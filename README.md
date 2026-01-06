@@ -16,7 +16,7 @@ The program performs two main functions:
 ## Files
 * `main.py`: The script that runs the simulation and generates the graph.
 * `Analysis_Paper.pdf`: A supplementary paper detailing the math/theory.
-* `Presentation.pptx`: A slideshow summary of the findings.
+* `Presentation.pdf`: A slideshow summary of the findings.
 
 ## Future Scope
 This project served as an introduction to **Monte Carlo Simulations**. My goal is to apply these stochastic modeling techniques to simulate supply chain logistics and manufacturing processes in future projects.
